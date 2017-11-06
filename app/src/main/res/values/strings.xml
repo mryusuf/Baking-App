@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <string name="widget_text">Your Recipe will appear here</string>
+</resources>
